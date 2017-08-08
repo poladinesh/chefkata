@@ -1,4 +1,4 @@
 # chefkata
 
-TODO: Enter the cookbook description here.
-
+TODO: This cookbook provides a example of how custom resources work.
+      Check for the ruby files inside the recipes and resources folder
